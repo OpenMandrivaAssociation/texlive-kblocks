@@ -1,6 +1,6 @@
 Name:		texlive-kblocks
 Version:	57617
-Release:	1
+Release:	2
 Summary:	Easily typeset Control Block Diagrams and Signal Flow Graphs
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kblocks
