@@ -3,7 +3,7 @@ Version:	57617
 Release:	2
 Summary:	Easily typeset Control Block Diagrams and Signal Flow Graphs
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/kblocks
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/kblocks
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kblocks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/kblocks.doc.r%{version}.tar.xz
